@@ -1,6 +1,8 @@
-package ru.geekbrains.isemenov.trainingCorse_hibernate;
+package ru.geekbrains.isemenov.trainingCorse_hibernate.homework;
 
-import ru.geekbrains.isemenov.trainingCorse_hibernate.entities.Student;
+
+
+import ru.geekbrains.isemenov.trainingCorse_hibernate.homework.entites.Student;
 
 import java.util.List;
 
