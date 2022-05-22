@@ -1,4 +1,4 @@
-package ru.geekbrains.isemenov.trainingCorse_hibernate.entities;
+package ru.geekbrains.isemenov.trainingCorse_hibernate.homework.entites;
 
 import javax.persistence.*;
 

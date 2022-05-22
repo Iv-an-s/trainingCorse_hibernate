@@ -1,4 +1,4 @@
-package ru.geekbrains.isemenov.trainingCorse_hibernate;
+package ru.geekbrains.isemenov.trainingCorse_hibernate.homework;
 
 import org.hibernate.Session;
 import org.hibernate.SessionFactory;
